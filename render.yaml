@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: E-learning for k-12 grade
+    env: docker
+    plan: free
